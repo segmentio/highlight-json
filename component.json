@@ -1,0 +1,13 @@
+{
+  "name": "highlight-json",
+  "repo": "segmentio/highlight-json",
+  "description": "Highlight plugin for JSON",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "dependencies": {
+    "segmentio/highlight": "*",
+    "component/assert": "*"
+  }
+}
