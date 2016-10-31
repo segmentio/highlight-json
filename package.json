@@ -1,6 +1,6 @@
 {
   "name": "highlight-json",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Highlight plugin for JSON",
   "main": "index.js",
   "repository": {
