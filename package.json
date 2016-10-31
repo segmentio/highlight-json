@@ -1,0 +1,11 @@
+{
+  "name": "highlight-json",
+  "version": "0.0.0",
+  "description": "Highlight plugin for JSON",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/segmentio/highlight-json.git"
+  },
+  "license": "MIT"
+}
